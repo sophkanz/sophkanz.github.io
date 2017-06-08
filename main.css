@@ -1,10 +1,24 @@
 h1 {
+	background-color: #fffdc9;
 	color: #ffc6f5;
 
 }
 h2 {
-	color: #eff722;
+	background-color: #e1b4f7;
+	color: #ffffff;
 }
 h3 {
+	background-color: #f9fff2;
 	color: #94c4dd;
+}
+body{
+    font-family: "Georgia", Serif, monospace;
+}    
+#first{color: #68992f;}
+strong{color: pink;}
+.mono{font-family: monospace;}
+.upper{text-transform: uppercase;}
+h3 {
+	margin: 20px;
+	padding: 22px;
 }
